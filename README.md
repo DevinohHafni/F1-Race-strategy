@@ -72,5 +72,3 @@ The dataset is processed using Python and stored in PostgreSQL, followed by visu
 - Mid-field teams show higher variability in lap times
 
 ---
-
-## 📁 Project Structure
